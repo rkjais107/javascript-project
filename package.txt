@@ -1,0 +1,2 @@
+npm init to install package.json file
+npm i prompt-sync to intall package file for user inputnp
